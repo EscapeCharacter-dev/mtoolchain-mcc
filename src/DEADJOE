@@ -1,0 +1,20 @@
+
+*** These modified files were found in JOE when it aborted on Mon May 10 18:12:00 2021
+*** JOE was aborted by UNIX signal 15
+
+*** Fichier '(Sans nom)'
+test.c
+test.c
+test.c
+test.c
+Makefile
+Makefile
+Makefile
+Main.c
+src/Main.c
+src/Main.c
+Main.c
+
+*** Fichier '* Startup Log *'
+Traitement de '/home/pi/.joerc'...Traitement de '/etc/joe/ftyperc'...Finished processing /etc/joe/ftyperc
+Finished processing /home/pi/.joerc
